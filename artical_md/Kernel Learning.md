@@ -1,36 +1,5 @@
 # Learning conditional distributions on continuous spaces
 
-Cyril Bénézet*†
-
-CYRIL.BENEZET@ENSIIE.FR
-
-Université Paris-Saclay, CNRS, Univ Evry, ensIIE
-
-Laboratoire de Mathématiques et Modélisation d'Evry,
-
-91037, Evry-Courcournones, France
-
-Ziteng Cheng*†
-
-ZITENG.CHENG@UTORONTO.CA
-
-Financial Technology Thrust
-
-The Hong Kong University of Science and Technology (Guangzhou)
-
-Guangzhou, 511400, China
-
-Sebastian Jaimungal*§
-
-Department of Statistical Sciences
-
-University of Toronto
-
-Toronto, ON M5G 1Z5, Canada
-
-Editor: Maxim Raginsky
-
-SEBASTIAN.JAIMUNGAL@UTORONTO.CA
 
 # Abstract
 
